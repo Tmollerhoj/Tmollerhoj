@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tmollerhoj
-- 👀 I’m interested in ... Learning
+- 👀 I’m interested in ... Working
 - 🌱 I’m currently learning ... Responsive Web Design
 
 
